@@ -1,3 +1,5 @@
+<b> Note: To render full-functional view of the Jupyter Notebook, navigate to https://nbviewer.jupyter.org and paste the notebook link</b>
+
 # Facial Detection and Expression Classification using TensorFlow
 ![Image](Sample_image.jpg)
 ## Project Overview
